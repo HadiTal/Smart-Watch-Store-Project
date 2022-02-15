@@ -1,0 +1,99 @@
+.nav-bar {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+li {
+    padding-right: 2rem;
+    font-family: font-yekhan-normal;
+    font-weight: bold;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.brand :nth-child(2) {
+    display: none;
+}
+
+.box {
+    position: absolute;
+    top: 4em;
+}
+
+.icon-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon-header {
+    font-size: 1.3rem;
+}
+
+.feature {
+    width: 17em;
+    height: 300px;
+    margin: 1em 3em;
+}
+
+.name-watch {
+    padding: 0.5em;
+    font-size: 0.7rem;
+    font-weight: bold;
+}
+
+.value-price {
+    font-size: 0.7rem;
+    font-weight: bold;
+}
+
+.price-title {
+    font-size: 0.7rem;
+    font-weight: bold;
+}
+
+.contact-us {
+    width: 100%;
+}
+
+.imag-contact-us {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-contact {
+    width: 90%;
+    height: 80%;
+}
+
+.customer-1 {
+    width: 45%;
+}
+
+.customer-2 {
+    width: 45%;
+}
+
+.team-footer {
+    flex: 0.4;
+    height: 50%;
+    padding: 1em;
+}
+
+.team-footer-2 {
+    flex: 0.2;
+    height: 20em;
+}
+
+.team-footer-4 {
+    display: none;
+}
+
+.team-footer-3 {
+    flex: 0.3;
+    height: 20em;
+}
